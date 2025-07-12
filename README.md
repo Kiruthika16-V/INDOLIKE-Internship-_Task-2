@@ -12,16 +12,17 @@ Using VADER, we extract positive, neutral, negative, and compound sentiment scor
 
 ✅Features
 
-Load and preprocess a zipped CSV file containing reviews.
-Clean and extract relevant columns: Score and Text.
-Use VADER SentimentIntensityAnalyzer to score review texts.
-Visualize:
-Distribution of reviews by star rating.
-Average sentiment scores per rating (positive, neutral, negative, compound).
-Identify:
-Most positive review based on sentiment score.
-Most negative review.
-Filter reviews based on a specific star rating.
+- Load and preprocess a zipped CSV file containing reviews.
+- Clean and extract relevant columns: Score and Text.
+- Use VADER SentimentIntensityAnalyzer to score review texts.
+- Visualize:
+    - Distribution of reviews by star rating.
+    - Average sentiment scores per rating (positive, neutral, negative, compound).
+- Identify:
+- Most positive review based on sentiment score.
+- Most negative review.
+- Filter reviews based on a specific star rating.
+  
 ✅New Feature Added By Me
 
 🗂️ How to Use
