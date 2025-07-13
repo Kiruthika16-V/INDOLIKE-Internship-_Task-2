@@ -10,7 +10,7 @@ The goal of this project is to analyze customer sentiment from review text and e
 
 Using VADER, we extract positive, neutral, negative, and compound sentiment scores for each review. These are then analyzed and visualized using bar plots for deeper insight into review patterns and customer satisfaction.
 
-##✅Features
+## ✅Features
 
 - Load and preprocess a zipped CSV file containing reviews.
 - Clean and extract relevant columns: Score and Text.
@@ -56,7 +56,7 @@ File upload support in Colab zipfile, io Unzipping uploaded data file and byte h
 
 ## Screenshots 
   
-[![WhatsApp-Image-2025-07-11-at-9.36.17-PM.th.jpg](https://pasteimg.com/images/2025/07/13/WhatsApp-Image-2025-07-11-at-9.36.17-PM.th.jpg)](https://pasteimg.com/image/ByPJV)
+![WhatsApp Image 2025-07-11 at 9 36 04 PM](https://github.com/user-attachments/assets/f3064205-ee0b-4c55-a3b4-c7febea2e155)
 
 ![Image](https://github.com/user-attachments/assets/4e05b03a-8b48-48ff-bc01-b4ed6e3c875e)
 
